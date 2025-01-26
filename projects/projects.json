@@ -1,0 +1,55 @@
+[
+  {
+    "name": "TIC TAC TOE GAME",
+    "desc": "using html css js created a TIC TAC TOE game",
+    "image": "blog",
+    "category": "html css js",
+    "links": {
+      "view": "https://tic-tac-toe-game5289.netlify.app/",
+      "code": "https://github.com/git-Sahitya/Projects/tree/main/Tic%20Tac%20Toe%20game"
+    }
+  },
+  {
+    "name": "Music App clone",
+    "desc": "It's a music app just like spotify one page limited no copyright song collection. Allows multiple users to connect.",
+    "image": "chat",
+    "category": "html css js",
+    "links": {
+      "view": "https://musicwebclone.netlify.app/",
+      "code": "https://github.com/git-Sahitya/Projects/tree/main/Music%20app"
+    }
+  },
+
+  {
+    "name": "ROCK-PAPER-SCISSORS GAME",
+    "desc": "using html css js created a ROCK paper scissors game",
+    "image": "movie",
+    "category": "html css js",
+    "links": {
+      "view": "https://rock-paper-scissors-game5289.netlify.app/",
+      "code": "https://github.com/git-Sahitya/Projects/tree/main/ROCK%20PAPER%20SCISSORS"
+    }
+  },
+  {
+    "name": "email-validation-web",
+    "desc": "Using html css js create a email-validation web.",
+    "image": "weather",
+    "category": "web development",
+    "links": {
+      "view": "https://email-validation-web.netlify.app/",
+      "code": "https://github.com/git-Sahitya/Projects/tree/main/emailValidator"
+    }
+  },
+
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "port",
+    "category": "basicweb",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  } 
+
+]
